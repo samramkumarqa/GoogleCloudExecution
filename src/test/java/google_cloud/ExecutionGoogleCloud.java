@@ -30,7 +30,6 @@ public class ExecutionGoogleCloud {
 
                     // Open Google
                     driver.get("https://www.google.com");
-
                     // Print Page Title
                     System.out.println("Page Title: " + driver.getTitle());
 
